@@ -1,2 +1,7 @@
 # Plant_Disease_detection
-Plant
+
+
+''' 
+Data Collection : 
+    - Download Data from Kaggle : https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+'''
